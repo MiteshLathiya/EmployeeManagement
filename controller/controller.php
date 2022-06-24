@@ -334,8 +334,8 @@ class controller
 					$mail->Host = 'smtp.gmail.com';       
 					$mail->SMTPAuth = true;              
 					$mail->Username = 'miteshlathiya77@gmail.com';   
-					$mail->Password = '6352107003'; 
-					$mail->SMTPSecure = 'tls';            
+					$mail->Password = ''; 
+					$mail->SMTPSecure = 'tls';           
 					$mail->Port = 587;                  
 
 
